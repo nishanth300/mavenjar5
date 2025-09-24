@@ -14,6 +14,7 @@ public class AppTest {
      */
     @Test
     public void shouldAnswerWithTrue() {
+        system.out.println("helooo")
         assertTrue(true);
     }
 }
